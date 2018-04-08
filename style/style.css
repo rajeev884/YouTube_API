@@ -1,0 +1,25 @@
+.roots{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    float: right;
+    /* background: #cfc8c8; */
+    padding: 10px;
+}
+.gridList{
+    width: 500;
+    height: 450;
+    overflow-y: 'auto';
+    
+}
+.listitem{
+    cursor: pointer;
+}
+
+.searchbar{
+    text-align: center;
+}
+.video-detail{
+    box-shadow: 0 0 10px #b2aaaa;
+    padding: 10px;
+}
